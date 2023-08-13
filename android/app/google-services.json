@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "457118185229",
+    "project_id": "guure-chat-app",
+    "storage_bucket": "guure-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457118185229:android:b73a61dbe1196cd761e244",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT9uhxrZ4s4fhy_G-ujnZNXhjCb8a1VtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
